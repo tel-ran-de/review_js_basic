@@ -5,3 +5,13 @@
 .user-container-div {
   font-family: 'Karla', sans-serif;
 }
+
+.cat-image {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+
+#third-cat {
+  border: 10px solid red;
+}
